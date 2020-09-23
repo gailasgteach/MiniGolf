@@ -1,0 +1,58 @@
+.score-card {
+    -fx-font-size: 18;
+    -fx-padding:10;
+}
+.score-cardtext {
+    -fx-fill:whitesmoke;
+    -fx-stroke:whitesmoke;
+}
+.power-meter {
+    -fx-padding:0;
+}
+.generic-hole {
+    -fx-border-color:transparent;
+    -fx-border-width:1;
+}
+
+.game {
+    -fx-font-family: 'Tahoma', 'Geneva', 'sans-serif';
+    -fx-fill:white;
+    -fx-stroke:white;
+    -fx-font-weight: bold;
+}
+
+.my_vbox {
+    -fx-border-color: red;
+    -fx-border-insets: 5;
+    -fx-border-width: 3; 
+}
+
+#about-button .ikonli-font-icon {
+    -fx-icon-code: "mdi-information-variant";
+    -fx-icon-color: blue;
+    -fx-icon-size: 25px;
+}
+
+#close-button .ikonli-font-icon {
+    -fx-icon-code: "mdi-close-circle-outline";
+    -fx-icon-color: black;
+    -fx-icon-size: 25px;
+}
+
+.game-button {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-padding: 10 20 10 20;    
+}
+
+.root {
+    -fx-background-color: transparent; 
+}
+
+.button {
+
+}

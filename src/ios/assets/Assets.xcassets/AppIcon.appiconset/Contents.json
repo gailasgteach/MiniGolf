@@ -1,0 +1,116 @@
+{
+    "images" : [
+        {
+        "idiom" : "iphone",
+        "size" : "20x20",
+        "filename" : "minigolf-iphone-notification-icon-20@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "20x20",
+        "filename" : "minigolf-iphone-notification-icon-20@3x.png",
+        "scale" : "3x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "29x29",
+        "filename" : "minigolf-iphone-spotlight-settings-icon-29@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "29x29",
+        "filename" : "minigolf-iphone-spotlight-settings-icon-29@3x.png",
+        "scale" : "3x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "40x40",
+        "filename" : "minigolf-iphone-spotlight-icon-40@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "40x40",
+        "filename" : "minigolf-iphone-spotlight-icon-40@3x.png",
+        "scale" : "3x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "60x60",
+        "filename" : "minigolf-iphone-app-icon-60@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "iphone",
+        "size" : "60x60",
+        "filename" : "minigolf-iphone-app-icon-60@3x.png",
+        "scale" : "3x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "20x20",
+        "filename" : "minigolf-ipad-notifications-icon-20@1x.png",
+        "scale" : "1x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "20x20",
+        "filename" : "minigolf-ipad-notifications-icon-20@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "29x29",
+        "filename" : "minigolf-ipad-settings-icon-29@1x.png",
+        "scale" : "1x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "29x29",
+        "filename" : "minigolf-ipad-settings-icon-29@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "40x40",
+        "filename" : "minigolf-ipad-spotlight-icon-40@1x.png",
+        "scale" : "1x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "40x40",
+        "filename" : "minigolf-ipad-spotlight-icon-40@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "76x76",
+        "filename" : "minigolf-ipad-app-icon-76@1x.png",
+        "scale" : "1x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "76x76",
+        "filename" : "minigolf-ipad-app-icon-76@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "ipad",
+        "size" : "83.5x83.5",
+        "filename" : "minigolf-ipad-pro-app-icon-83.5@2x.png",
+        "scale" : "2x"
+        },
+        {
+        "idiom" : "ios-marketing",
+        "size" : "1024x1024",
+        "filename" : "minigolf-app-store-icon-1024@1x.png",
+        "scale" : "1x"
+        }
+    ],
+    "info" : {
+        "version" : 1,
+        "author" : "xcode"
+    }
+}

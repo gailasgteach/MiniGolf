@@ -1,0 +1,68 @@
+{
+    "images" : [
+        {
+            "idiom" : "mac",
+            "size" : "16x16",
+            "filename" : "minigolf-icon-16@1x.png",
+            "scale" : "1x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "16x16",
+            "filename" : "minigolf-icon-16@2x.png",
+            "scale" : "2x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "32x32",
+            "filename" : "minigolf-icon-32@1x.png",
+            "scale" : "1x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "32x32",
+            "filename" : "minigolf-icon-32@2x.png",
+            "scale" : "2x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "128x128",
+            "filename" : "minigolf-icon-128@1x.png",
+            "scale" : "1x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "128x128",
+            "filename" : "minigolf-icon-128@2x.png",
+            "scale" : "2x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "256x256",
+            "filename" : "minigolf-icon-256@1x.png",
+            "scale" : "1x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "256x256",
+            "filename" : "minigolf-icon-256@2x.png",
+            "scale" : "2x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "512x512",
+            "filename" : "minigolf-icon-512@1x.png",
+            "scale" : "1x"
+        },
+        {
+            "idiom" : "mac",
+            "size" : "512x512",
+            "filename" : "minigolf-icon-512@2x.png",
+            "scale" : "2x"
+        }
+    ],
+    "info" : {
+        "version" : 1,
+        "author" : "xcode"
+    }
+}
